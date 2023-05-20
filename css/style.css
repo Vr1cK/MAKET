@@ -546,6 +546,7 @@ z-index: 1;
     flex: none;
     order: 1;
     flex-grow: 0;
+    
 }
 
 .container3 {
@@ -598,6 +599,8 @@ z-index: 1;
     height: 20px;
     left: 65px;
     top: 131px;
+
+
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
@@ -619,6 +622,8 @@ z-index: 1;
     left: 25px;
     font-family: 'Roboto';
     font-style: normal;
+
+
     font-weight: 700;
     font-size: 24px;
     line-height: 30px;
@@ -651,6 +656,8 @@ z-index: 1;
     position: relative;
     left: 25px;
     bottom: 40px;
+
+
     width: 100px;
     height: 20px;
 
@@ -667,6 +674,8 @@ z-index: 1;
 .purple_ball {
     position: relative;
     width: 10px;
+
+
     height: 10px;
     left: 38px;
     top: 155px;
@@ -683,6 +692,8 @@ z-index: 1;
     position: relative;
     width: 10px;
     height: 10px;
+
+
     left: 155px;
     top: 145px;
     background: rgba(255, 102, 51, 0.5);
@@ -698,6 +709,8 @@ z-index: 1;
     position: relative;
     width: 90px;
     height: 20px;
+
+
     left: 187px;
     top: 60px;
     font-family: 'Roboto';
@@ -719,6 +732,8 @@ z-index: 1;
     left: 175px;
     top: 125px;
     flex-direction: column;
+
+
     align-items: flex-start;
     padding: 0px;
     isolation: isolate;
@@ -740,6 +755,8 @@ z-index: 1;
 .head {
     display: flex;
     flex-direction: column;
+
+
     align-items: center;
     padding: 0px;
     isolation: isolate;
@@ -764,6 +781,8 @@ z-index: 1;
 
     display: flex;
     flex-direction: column;
+
+
     justify-content: space-between;
     align-items: center;
     padding: 0px;
@@ -786,6 +805,8 @@ z-index: 1;
 .plot {
     position: relative;
     display: flex;
+
+
     flex-direction: column;
     align-items: center;
     isolation: isolate;
@@ -822,6 +843,7 @@ z-index: 1;
     height: 30px;
     bottom: 90px;
     left: -550px;
+
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
@@ -839,6 +861,8 @@ z-index: 1;
     position: relative;
     display: flex;
     flex-direction: row;
+
+
     justify-content: center;
     align-items: center;
 
@@ -970,6 +994,7 @@ z-index: 1;
 
     font-family: 'Roboto';
     font-style: normal;
+
     font-weight: 900;
     font-size: 12px;
     line-height: 20px;
@@ -1046,6 +1071,7 @@ z-index: 1;
 
     flex: none;
     order: 1;
+
     flex-grow: 0;
 }
 
@@ -1107,6 +1133,8 @@ z-index: 1;
     position: absolute;
     left: 270px;
     display: flex;
+
+
     flex-direction: row;
     justify-content: center;
     align-items: center;
@@ -1175,6 +1203,7 @@ z-index: 1;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 900;
+
     font-size: 12px;
     line-height: 20px;
 
@@ -1210,6 +1239,7 @@ z-index: 1;
     top: 500px;
     left: 100px;
     display: inline-block;
+
     flex-direction: column;
     align-items: center;
     margin-right: 200px;
@@ -1230,6 +1260,8 @@ z-index: 1;
     position: relative;
     top: 750px;
     left: 100px;
+
+
     display: inline-block;
     flex-direction: column;
     align-items: center;
@@ -1286,6 +1318,7 @@ z-index: 1;
     font-style: normal;
     font-weight: 700;
     font-size: 12px;
+
     line-height: 20px;
 
     color: #6B7A99;
@@ -1327,6 +1360,7 @@ z-index: 1;
     top: 450px;
     z-index: 2;
     width: 150px;
+
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
@@ -1342,6 +1376,7 @@ z-index: 1;
     top: 900px;
     z-index: 2;
     width: 150px;
+
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
@@ -1381,13 +1416,16 @@ z-index: 1;
     color: #6B7A99;
 }
 
+
 .o {
     position: absolute;
     left: 1055px;
+
     top: 900px;
     z-index: 2;
     width: 150px;
     font-family: 'Roboto';
+
     font-style: normal;
     font-weight: 700;
     font-size: 12px;
@@ -1426,6 +1464,7 @@ z-index: 1;
     color: #6B7A99;
 }
 
+
 .c {
     position: absolute;
     left: 1075px;
@@ -1440,6 +1479,7 @@ z-index: 1;
     border: none;
     color: #6B7A99;
 }
+
 
 .x {
     position: absolute;
